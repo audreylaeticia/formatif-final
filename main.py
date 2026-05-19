@@ -161,6 +161,8 @@ def afficher(humidite, temperature, duree_stable, derniere_decision):
     )
 
 
+
+
 def boucle_principale(capteur, base_url):
     """Boucle non-bloquante a `time.monotonic()`."""
 
